@@ -1,3 +1,9 @@
+![image](https://github.com/winniehhy/Table_Quest/assets/155449474/dd6c1ea9-c0d2-45c2-89f3-4ec489e9c9e8)
+![image](https://github.com/winniehhy/Table_Quest/assets/155449474/aed45bdb-0e73-4cd5-ba65-bfd5c311e0b3)
+
+
+
+
 <h3>Table Quest</h3>
 <p> 🌟 Welcome to Table Quest, our entry for the Make It Challenge Hackathon Web 3.0. Table Quest is a gamified restaurant booking app leveraging blockchain technology to provide real-time transparency, enhance efficiency, and reduce long queues. This app not only saves customers time and money but also contributes to net zero by lowering carbon emissions from cars. </p>
 
