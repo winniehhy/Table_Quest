@@ -1,5 +1,5 @@
 <h3>Table Quest</h3>
-<p> 🌟 Welcome to Table Quest, our entry for the Make It Challenge Hackathon Web 3.0. Table Quest is a gamified booking app leveraging blockchain technology to provide real-time transparency, enhance efficiency, and reduce long queues. This app not only saves customers time and money but also contributes to net zero by lowering carbon emissions from cars. </p>
+<p> 🌟 Welcome to Table Quest, our entry for the Make It Challenge Hackathon Web 3.0. Table Quest is a gamified restaurant booking app leveraging blockchain technology to provide real-time transparency, enhance efficiency, and reduce long queues. This app not only saves customers time and money but also contributes to net zero by lowering carbon emissions from cars. </p>
 
 
 <br>
