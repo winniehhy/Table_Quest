@@ -20,7 +20,7 @@ We are currently in the prototype phase, and our design is available on Figma.
 
 <br>
 <h3>Figma Prototype</h3>
-📌 https://www.figma.com/design/2Qupz5XUfJX9jm77bRgf2X/TableQuest-Prototype?node-id=0-1&t=cweEwX5EEpPtUcJI-0
+📌 https://www.figma.com/design/2Qupz5XUfJX9jm77bRgf2X/TableQuest-Prototype?node-id=0-1&t=e6eOzAJiUJcB3C93-1
 </br>
 
 <br>
