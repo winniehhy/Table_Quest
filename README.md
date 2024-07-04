@@ -47,6 +47,6 @@ We are currently in the prototype phase, and our design is available on Figma.
 
 <br>🧩
 <b> Acknowledgements </b>
-<p>Thanks to the Make It Challenge Hackathon for this opportunity.</p>
+<p>Thanks to the Make It Challenge Hackathon 2024 for this opportunity.</p>
 <p>Special thanks to all the team members who supported this project.</p>
 </br>
