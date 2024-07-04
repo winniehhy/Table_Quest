@@ -20,8 +20,8 @@ We are currently in the prototype phase, and our design is available on Figma.
 
 <br>
 <h3>Figma Prototype</h3>
-📌 Figma : https://www.figma.com/design/2Qupz5XUfJX9jm77bRgf2X/TableQuest-Prototype?node-id=0-1&t=e6eOzAJiUJcB3C93-1
-🌝 Canva : https://www.canva.com/design/DAGJlw8dFi4/l629iCrQFYf4i2DD1gWqvA/edit
+<p>📌 Figma : https://www.figma.com/design/2Qupz5XUfJX9jm77bRgf2X/TableQuest-Prototype?node-id=0-1&t=e6eOzAJiUJcB3C93-1</p>
+<p>🌝 Canva : https://www.canva.com/design/DAGJlw8dFi4/l629iCrQFYf4i2DD1gWqvA/edit </p>
 </br>
 
 <br>
