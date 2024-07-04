@@ -10,13 +10,12 @@
 
 <br>
 <h3>💡Idea Pitch</h3>
-Table Quest aims to revolutionize the dining experience by offering:
-</br>
 
-<br><h3> 🚨Benefit </h3>  
-<p><b>Real-Time Transparency</b>: See live updates on table availability and waiting times. </p>
-<p><b>Enhanced Efficiency</b>: Streamlined booking process reduces waiting times and optimizes restaurant operations. </p>
-<p><b>Environmental Impact</b>: By reducing the need for cars to idle while waiting for a table, we help lower carbon emissions. </p>
+<p>Table Quest aims to revolutionize the dining experience by offering: </p>
+
+<p><b>->Real-Time Transparency</b>: See live updates on table availability and waiting times. </p>
+<p><b>->Enhanced Efficiency</b>: Streamlined booking process reduces waiting times and optimizes restaurant operations. </p>
+<p><b>->Environmental Impact</b>: By reducing the need for cars to idle while waiting for a table, we help lower carbon emissions. </p>
 </br>
 
 <br>
